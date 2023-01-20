@@ -37,6 +37,9 @@ The results of other pipelines can be checked out in the file: Classification-of
 Three architectures were set (each simulation represents a architectures) with kfolder k=5. 
 You can verify all details regarding the architectures in the file located: Classification-of-lung-nodules/src/architectures.py
 
+table 1) Average of the 5 folds.
+table 2) Standard deviation of the 5 folds.
+
 ![tablefinalcnn](https://user-images.githubusercontent.com/94997683/213815454-3cfba1c3-2ba8-4630-9195-4fb018a04fe6.png)
 
 The results, confusion matrix, graphs of simulations can be checked out in the file: Classification-of-lung-nodules/notebooks/CNN-classification-results.ipynb
